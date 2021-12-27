@@ -3,7 +3,7 @@
 ### Class Details
 - Location: IB 3309
 - Time: Hybrid, Thurs 6:00 - 8:40pm
-- Dates: 1/6/2020 - 3/25/2020
+- Dates: 1/4/2022 - 3/23/2022
 - Instructor: Brenden West | brenden.west@seattlecolleges.edu
 - Credits: 5
 - Prerequisites: AD 315, AD 325, & acceptance into AD-BAS program or instructor permission
@@ -11,7 +11,7 @@
 Note: Students should be familiar with Python programming, SQL database queries, basic statistics, and source control with git & Github.
 Summary
 
-This class introduces core concepts of data science development with a focus on Python programming tools. Students will learn and exercise key skills used by professional data-science practitioners including data engineers, analysts, and machine learning engineers.
+This class introduces core concepts of data science with a focus on the Python programming tools. Students will learn and exercise key skills used by professional data engineers, data analysts, and data scientists.
   
 ### Required Materials
 This course will make use of the following textbooks as well as relevant online resources:
@@ -26,7 +26,7 @@ Students will need the following development resources:
 - A https://github.com account
 - A https://datacamp.com  account
 
-Students choosing to use their own personal computer will need to install Python 3.6+ as well as the Jupyter notebook application.  https://www.anaconda.com/distribution/ is a good option for this.
+Students choosing to use their own personal computer will need to install Python 3.8+ as well as the Jupyter notebook application.  https://www.anaconda.com/distribution/ is a good option for this.
 
 ### Class Structure & Topics
 
