@@ -16,7 +16,6 @@ This class introduces core concepts of data science with a focus on the Python p
 ### Required Materials
 This course will make use of the following textbooks as well as relevant online resources:
 - Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2nd edition. Wes McKinney
-- Hands-On Data Analysis with Pandas, Stefanie Molin
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition. Aurélien Géron
 
 These books should be accessible free of charge through OReilly Books online, but can also be purchased as hard copy if desired.
